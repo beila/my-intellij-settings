@@ -455,16 +455,10 @@
       <file name="/home2/hojin.ghim/src/health/repository/build/classes/test/com/lge/lifetracker/repository/DaggerAchievementComponent.class" timestamp="1437610914537">
         <mark key="'" line="39" column="47" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/DataConnectorModule.java" timestamp="1438925617414">
-        <mark key="[" line="6" column="77" />
-        <mark key="]" line="6" column="87" />
-        <mark key="^" line="6" column="87" />
-        <mark key="." line="6" column="87" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/repository/build.gradle" timestamp="1438068986107">
         <mark key="'" line="18" column="4" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/build.gradle" timestamp="1439250001260">
+      <file name="/home2/hojin.ghim/src/health/build.gradle" timestamp="1439272245523">
         <mark key="[" line="11" column="53" />
         <mark key="]" line="11" column="62" />
         <mark key="." line="11" column="62" />
@@ -601,12 +595,6 @@
       </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/AgentModule.java" timestamp="1438925431535">
         <mark key="'" line="17" column="28" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/build.gradle" timestamp="1439165111366">
-        <mark key="[" line="128" column="39" />
-        <mark key="]" line="128" column="40" />
-        <mark key="." line="128" column="40" />
-        <mark key="^" line="128" column="40" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/webPage/src/main/AndroidManifest.xml" timestamp="1438861811922">
         <mark key="'" line="12" column="27" />
