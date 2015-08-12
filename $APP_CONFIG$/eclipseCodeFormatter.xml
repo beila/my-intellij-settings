@@ -1,0 +1,18 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1412579492248" />
+          <option name="importOrderConfigFilePath" value="$USER_HOME$/src/p2p/tools/formatter_140721.xml" />
+          <option name="importOrderFromFile" value="true" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/src/p2p/tools/formatter_140721.xml" />
+          <option name="selectedJavaProfile" value="formatter_0409" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
