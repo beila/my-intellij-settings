@@ -20,18 +20,12 @@
       <file name="/a.dummy" timestamp="1439429986314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/utils/Tuples.java" timestamp="1435107192583">
-        <mark key="'" line="4" column="23" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/presenter/ExercisePresenter.java" timestamp="1437467648893">
         <mark key="'" line="32" column="65" />
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="22" />
         <mark key="^" line="33" column="41" />
         <mark key="." line="23" column="22" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/common/LifetrackerContract.java" timestamp="1436945933034">
-        <mark key="'" line="351" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/data/MovementData.java" timestamp="1437660231809">
         <mark key="'" line="74" column="28" />
@@ -61,18 +55,6 @@
         <mark key="^" line="51" column="46" />
         <mark key="." line="51" column="46" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.10/b96d1a1c88ee6172811b2705323bccaa1e6435c/rxjava-1.0.10-sources.jar!/rx/Observable.java" timestamp="1435854122164">
-        <mark key="'" line="7685" column="26" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/presenter/PaceMakerLevelStringMaker.java" timestamp="1437437068695">
-        <mark key="'" line="4" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/ProviderGetter.java" timestamp="1437980113770">
-        <mark key="'" line="5" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/presenter/ProfilePresenter.java" timestamp="1437981988768">
-        <mark key="'" line="20" column="33" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/test/java/TestTest.java" timestamp="1437634983714">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="0" column="0" />
@@ -86,32 +68,11 @@
         <mark key="." line="51" column="26" />
         <mark key="^" line="51" column="26" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/controller/CoachingData.java" timestamp="1438043707779">
-        <mark key="'" line="58" column="0" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/StressObservable.java" timestamp="1437460366331">
-        <mark key="'" line="28" column="34" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/TrackerController.java" timestamp="1438043688923">
-        <mark key="'" line="33" column="9" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/settings/receiver/ExerciseNotificationReceiver.java" timestamp="1437528685692">
-        <mark key="'" line="30" column="31" />
-      </file>
       <file name="/home2/hojin.ghim/src/MySometime/prototype/classroom/src/main/kotlin/com/msa/classroom/temp.kt" timestamp="1438869335788">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/presenter/DurationPresenter.java" timestamp="1437118056775">
-        <mark key="'" line="4" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/data/TrackProviderUtils.java" timestamp="1436409552625">
-        <mark key="'" line="39" column="21" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/build/generated/source/r/debug/com/lge/lifetracker/R.java" timestamp="1436253461719">
-        <mark key="'" line="2349" column="32" />
       </file>
       <file name="/home2/hojin.ghim/src/MyApplication/app/build.gradle" timestamp="1436267155554">
         <mark key="'" line="4" column="23" />
@@ -126,20 +87,11 @@
         <mark key="^" line="37" column="87" />
         <mark key="." line="44" column="83" />
       </file>
-      <file name="/home2/hojin.ghim/src/MySometime/android/src/com/artifex/app/WallListActivity.java" timestamp="1438862276339">
-        <mark key="'" line="48" column="16" />
-      </file>
-      <file name="/home2/hojin.ghim/src/MySometime/common/src/main/java/com/tele9/android/app/common/connector/AppConnector.java" timestamp="1437646219744">
-        <mark key="'" line="46" column="13" />
-      </file>
       <file name="/home2/hojin.ghim/src/MySometime/build.gradle" timestamp="1438859682836">
         <mark key="[" line="26" column="67" />
         <mark key="]" line="26" column="70" />
         <mark key="." line="26" column="70" />
         <mark key="^" line="26" column="70" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko/0.6.3-15/630305f5490f5ad0412f04de8e00d4596f231fc5/anko-0.6.3-15-sources.jar!/org/jetbrains/anko/Views.kt" timestamp="1438901110480">
-        <mark key="'" line="805" column="178" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/presenter/DatePresenter.java" timestamp="1437434193641">
         <mark key="'" line="4" column="17" />
@@ -155,29 +107,12 @@
         <mark key="^" line="30" column="63" />
         <mark key="." line="30" column="63" />
       </file>
-      <file name="/home2/hojin.ghim/src/MySometime/app/src/main/java/com/tele9/mysometime/WallListActivity.java" timestamp="1437647527975">
-        <mark key="'" line="59" column="26" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/track/TrackEntryFragment.java" timestamp="1438840113119">
-        <mark key="'" line="193" column="29" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/AchievementRemainingTimeReader.java" timestamp="1438915250770">
-        <mark key="'" line="8" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/HeartRateObservable.java" timestamp="1437460124989">
-        <mark key="'" line="28" column="39" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/MotionCountObservable.java" timestamp="1437607744895">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/build/generated/source/r/debug/android/support/wearable/R.java" timestamp="1437542339981">
-        <mark key="'" line="110" column="32" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.10/b96d1a1c88ee6172811b2705323bccaa1e6435c/rxjava-1.0.10-sources.jar!/rx/observables/BlockingObservable.java" timestamp="1435854161938">
-        <mark key="'" line="155" column="47" />
-      </file>
-      <file name="/home2/hojin.ghim/src/MySometime/appconnector/src/main/java/com/androidhuman/example/appconnector/MainActivity.java" timestamp="1437646219120">
-        <mark key="'" line="34" column="12" />
+      <file name="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" timestamp="1439445959817">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/ExerciseComponent.java" timestamp="1437610617765">
         <mark key="'" line="33" column="58" />
@@ -186,9 +121,6 @@
         <mark key="^" line="47" column="70" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/build/generated/source/apt/debug/com/lge/lifetracker/whealth/adapter/DaggerTestingRepositoryComponent.java" timestamp="1435039218323">
-        <mark key="'" line="189" column="21" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/track/TrackStartActivity.java" timestamp="1439171938416">
         <mark key="'" line="198" column="21" />
         <mark key="[" line="43" column="14" />
@@ -196,18 +128,12 @@
         <mark key="." line="43" column="58" />
         <mark key="^" line="43" column="58" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko/0.6.3-15/630305f5490f5ad0412f04de8e00d4596f231fc5/anko-0.6.3-15-sources.jar!/org/jetbrains/anko/OtherWidgets.kt" timestamp="1438901638102">
-        <mark key="'" line="55" column="106" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/settings/profile/HeightFragment.java" timestamp="1437435184532">
         <mark key="'" line="37" column="48" />
         <mark key="[" line="37" column="15" />
         <mark key="]" line="37" column="55" />
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/track/TrackUtils.java" timestamp="1438158516161">
-        <mark key="'" line="50" column="25" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/ActivityReader.java" timestamp="1437607512632">
         <mark key="'" line="7" column="26" />
@@ -222,18 +148,6 @@
         <mark key="]" line="178" column="66" />
         <mark key="." line="178" column="66" />
         <mark key="^" line="178" column="66" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/ProfileReader.java" timestamp="1435199850578">
-        <mark key="'" line="6" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/heartrate/HeartRateStartActivity.java" timestamp="1436237319048">
-        <mark key="'" line="54" column="41" />
-      </file>
-      <file name="/home2/hojin.ghim/src/MySometime/android/src/com/artifex/mupdfdemo/MuPDFActivity.java" timestamp="1438849743710">
-        <mark key="'" line="848" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/AchievementProvider.java" timestamp="1435197685098">
-        <mark key="'" line="9" column="17" />
       </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/utils/WHealthSettingPreference.java" timestamp="1437528809589">
         <mark key="'" line="24" column="31" />
@@ -269,9 +183,6 @@
         <mark key="^" line="29" column="62" />
         <mark key="." line="29" column="62" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/settings/profile/BirthYearFragment.java" timestamp="1437550845051">
-        <mark key="'" line="39" column="53" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/data/TrackUtils.java" timestamp="1436491236221">
         <mark key="'" line="417" column="11" />
         <mark key="[" line="417" column="11" />
@@ -279,22 +190,10 @@
         <mark key="^" line="417" column="36" />
         <mark key="." line="417" column="36" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/controller/StressController.java" timestamp="1437608131549">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/intelligence/challenge/build.gradle" timestamp="1439445629804">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="1" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/LoggerModule.java" timestamp="1437610621621">
-        <mark key="'" line="9" column="13" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/controller/TrackerController.java" timestamp="1435293570345">
-        <mark key="'" line="7" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/UnitObservableTest.groovy" timestamp="1437117458517">
-        <mark key="'" line="12" column="64" />
       </file>
       <file name="/home2/hojin.ghim/src/health/agent/build.gradle" timestamp="1439445383633">
         <mark key="[" line="2" column="61" />
@@ -309,9 +208,6 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="29" column="48" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/TrackConverter.java" timestamp="1437974367241">
-        <mark key="'" line="31" column="28" />
-      </file>
       <file name="/home2/hojin.ghim/src/MySometime/android/src/com/artifex/mupdfdemo/PrintDialogActivity.java" timestamp="1438850983890">
         <mark key="'" line="109" column="22" />
         <mark key="[" line="110" column="0" />
@@ -325,9 +221,6 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/0.12.1230/923109e3573c774f072ae30a926a957ed2b3102a/kotlin-stdlib-0.12.1230-sources.jar!/kotlin/collections/ArraysJVM.kt" timestamp="1438907886182">
-        <mark key="'" line="32" column="83" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/stress/StressCircleView.java" timestamp="1437530118133">
         <mark key="'" line="84" column="20" />
         <mark key="[" line="57" column="0" />
@@ -335,32 +228,17 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.10/b96d1a1c88ee6172811b2705323bccaa1e6435c/rxjava-1.0.10-sources.jar!/rx/internal/operators/OperatorTake.java" timestamp="1435854106931">
-        <mark key="'" line="69" column="30" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/presenter/AchievementPresentation.java" timestamp="1437367199048">
-        <mark key="'" line="6" column="25" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/ProfileComponent.java" timestamp="1438915463665">
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="67" />
         <mark key="." line="55" column="67" />
         <mark key="^" line="55" column="67" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/MotionCountReader.java" timestamp="1435199739547">
-        <mark key="'" line="8" column="17" />
-      </file>
       <file name="/home2/hojin.ghim/src/MySometime/dev/build.gradle" timestamp="1438860996626">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/RecordTrackActivity.java" timestamp="1438937531537">
-        <mark key="'" line="434" column="20" />
-      </file>
-      <file name="/home2/hojin.ghim/src/MySometime/android/src/com/artifex/connector/App.java" timestamp="1437648277016">
-        <mark key="'" line="64" column="36" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/android/build.gradle" timestamp="1438862155048">
         <mark key="[" line="36" column="0" />
@@ -381,12 +259,6 @@
         <mark key="]" line="37" column="43" />
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="43" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/jars/classes.jar!/android/support/wearable/view/WearableListView.class" timestamp="1437393118858">
-        <mark key="'" line="827" column="2" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.1.0/jars/classes.jar!/com/jakewharton/rxbinding/view/RxView.class" timestamp="1439171952336">
-        <mark key="'" line="17" column="42" />
       </file>
       <file name="/home2/hojin.ghim/src/health/intelligence/tip/src/AndroidManifest.xml" timestamp="1439444737644">
         <mark key="[" line="4" column="9" />
@@ -414,9 +286,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="63" column="50" />
       </file>
-      <file name="/home2/hojin.ghim/src/p2p/core/wormhole/src/main/java/com/lge/p2p/connection/Command.java" timestamp="1435793809505">
-        <mark key="'" line="12" column="16" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/ExerciseObservableTest.groovy" timestamp="1438950170469">
         <mark key="'" line="30" column="37" />
         <mark key="[" line="92" column="0" />
@@ -431,11 +300,11 @@
         <mark key="^" line="45" column="56" />
         <mark key="." line="45" column="56" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/CustomDrawerLayout.java" timestamp="1436255863655">
-        <mark key="'" line="7" column="40" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/ConstantsLifegram.java" timestamp="1436494131558">
-        <mark key="'" line="249" column="28" />
+      <file name="/home2/hojin.ghim/src/health/intelligence/tip/src/main/AndroidManifest.xml" timestamp="1439446004144">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="/home2/hojin.ghim/src/health/wcontroller/build.gradle" timestamp="1438045952933">
         <mark key="'" line="31" column="0" />
@@ -471,18 +340,12 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="49" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/libs/android-support-v4.jar!/android/support/v4/app/FragmentManagerImpl.class" timestamp="1438937825428">
-        <mark key="'" line="1661" column="10" />
-      </file>
       <file name="/home2/hojin.ghim/src/MySometime/prototype/build.gradle" timestamp="1438906319262">
         <mark key="'" line="2" column="33" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="24" column="24" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/build/classes/test/com/lge/lifetracker/repository/DaggerAchievementComponent.class" timestamp="1437610914537">
-        <mark key="'" line="39" column="47" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/build.gradle" timestamp="1439366107141">
         <mark key="'" line="16" column="4" />
@@ -497,21 +360,18 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="50" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/BPHealthTrackerController.java" timestamp="1438041995694">
-        <mark key="'" line="273" column="8" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/AndroidManifest.xml" timestamp="1436484262814">
+      <file name="/home2/hojin.ghim/src/health/Lifetracker/AndroidManifest.xml" timestamp="1439445891714">
         <mark key="'" line="311" column="51" />
-        <mark key="[" line="192" column="66" />
-        <mark key="]" line="192" column="67" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="33" />
         <mark key="." line="192" column="67" />
         <mark key="^" line="192" column="67" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/circle/util/CircleViewUtil.java" timestamp="1436254239745">
-        <mark key="'" line="396" column="41" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/data/base/Dates.java" timestamp="1437973781580">
-        <mark key="'" line="5" column="26" />
+      <file name="/home2/hojin.ghim/src/health/intelligence/challenge/src/main/AndroidManifest.xml" timestamp="1439445996778">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/prototype/src/main/AndroidManifest.xml" timestamp="1438906422486">
         <mark key="[" line="2" column="0" />
@@ -526,30 +386,12 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/settings/profile/ProfileDataRetainer.java" timestamp="1437550905705">
-        <mark key="'" line="8" column="38" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/libs/android-support-v4.jar!/android/support/v4/app/FragmentActivity.class" timestamp="1438937815548">
-        <mark key="'" line="621" column="28" />
-      </file>
-      <file name="/home2/hojin.ghim/src/MySometime/android/src/com/artifex/app/WallDetailActivity.java" timestamp="1438862246067">
-        <mark key="'" line="44" column="13" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/month/view/MonthviewCaledarView.java" timestamp="1436511900211">
         <mark key="'" line="327" column="22" />
         <mark key="[" line="330" column="26" />
         <mark key="]" line="330" column="26" />
         <mark key="." line="330" column="26" />
         <mark key="^" line="330" column="18" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/libs/bioitplatform_stub_lib_whealth_110.jar!/com/lge/bioitplatform/BPHealth.class" timestamp="1436235118621">
-        <mark key="'" line="336" column="30" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko/0.6.3-15/630305f5490f5ad0412f04de8e00d4596f231fc5/anko-0.6.3-15-sources.jar!/org/jetbrains/anko/Helpers.kt" timestamp="1438901492536">
-        <mark key="'" line="120" column="73" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" timestamp="1438941786003">
-        <mark key="'" line="682" column="18" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/data/base/Data.java" timestamp="1437372560290">
         <mark key="'" line="21" column="25" />
@@ -570,9 +412,6 @@
         <mark key="]" line="89" column="95" />
         <mark key="^" line="89" column="95" />
         <mark key="." line="89" column="95" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/RepositoryComponentFactory.java" timestamp="1438049014273">
-        <mark key="'" line="10" column="41" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/GoalObservableTest.groovy" timestamp="1438917464976">
         <mark key="'" line="36" column="53" />
@@ -595,12 +434,6 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/data/PaceProfile.java" timestamp="1435293620599">
-        <mark key="'" line="7" column="22" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/data/CoachingData.java" timestamp="1437010385343">
-        <mark key="'" line="7" column="30" />
-      </file>
       <file name="/home2/hojin.ghim/src/MySometime/prototype/classroom/src/main/kotlin/temp.kt" timestamp="1438869319547">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="0" column="0" />
@@ -608,26 +441,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home2/hojin.ghim/src/MySometime/android/src/com/artifex/mupdfdemo/ChoosePDFActivity.java" timestamp="1437647962573">
-        <mark key="'" line="45" column="22" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/presenter/MovementPresenter.java" timestamp="1437660263362">
-        <mark key="'" line="37" column="36" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/AchievementReader.java" timestamp="1435197727410">
-        <mark key="'" line="9" column="17" />
-      </file>
       <file name="/Dummy.txt" timestamp="1439444885624">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/home2/hojin.ghim/src/MySometime/android/res/values/strings.xml" timestamp="1438864631959">
-        <mark key="'" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko/0.6.3-15/630305f5490f5ad0412f04de8e00d4596f231fc5/anko-0.6.3-15-sources.jar!/org/jetbrains/anko/Custom.kt" timestamp="1438901597677">
-        <mark key="'" line="72" column="19" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/AgentModule.java" timestamp="1438925431535">
-        <mark key="'" line="17" column="28" />
       </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/build.gradle" timestamp="1439445405010">
         <mark key="^" line="127" column="26" />
@@ -645,9 +460,6 @@
         <mark key="]" line="66" column="13" />
         <mark key="." line="58" column="13" />
         <mark key="^" line="66" column="13" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/RecordTrackMapView.java" timestamp="1438937520278">
-        <mark key="'" line="98" column="21" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/app/src/main/java/com/tele9/mysometime/LoginActivity.java" timestamp="1437647231369">
         <mark key="'" line="42" column="6" />
@@ -675,15 +487,6 @@
         <mark key="." line="120" column="80" />
         <mark key="^" line="120" column="80" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/StressReader.java" timestamp="1437455916152">
-        <mark key="'" line="6" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/ActivityAlarmChecker.java" timestamp="1437465975622">
-        <mark key="'" line="4" column="17" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/build/intermediates/classes/debug/com/lge/lifetracker/databinding/CircleCustomlistviewBinding.class" timestamp="1436269854295">
-        <mark key="'" line="60" column="51" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/wcontroller/src/main/java/com/lge/lifetracker/whealth/controller/BPHealthActivityController.java" timestamp="1438046067747">
         <mark key="'" line="78" column="21" />
         <mark key="[" line="2" column="0" />
@@ -700,10 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="48" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/ExerciseObservable.java" />
-      <jump line="59" column="25" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/AchievementObservable.java" />
-      <jump line="88" column="41" filename="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/AgentModule.java" />
-      <jump line="112" column="27" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/ExerciseObservable.java" />
       <jump line="34" column="8" filename="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/AchievementComponent.java" />
       <jump line="62" column="32" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
       <jump line="17" column="8" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
@@ -800,13 +599,17 @@
       <jump line="46" column="4" filename="/home2/hojin.ghim/src/health/whealth/build.gradle" />
       <jump line="8" column="35" filename="/home2/hojin.ghim/src/health/Lifetracker/build.gradle" />
       <jump line="4" column="47" filename="/home2/hojin.ghim/src/health/intelligence/tip/build.gradle" />
+      <jump line="4" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
+      <jump line="9" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
+      <jump line="0" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
+      <jump line="8" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjvCBSdW50aW1lRXhjZXB0aW9uIOydhCDrjZjsoLjso7zshLjsmpQuCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmRlcGVuZGVuY2llcyB7CiAgICBjb21waWxlIHByb2plY3QoJzphZ2VudCcpCn0K</text>
+      <register name="&quot;" type="4">
+        <text>lifetracker</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIOydtOyiheyasSDrs4DtmZgg7L2U65Oc64qUIGNvbnZlcnRlciDroZwg7Jiu6rKo7KO87IS47JqULgo=</text>
@@ -818,46 +621,46 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBTY2hlZHVsZXIgc2NoZWR1bGVyID0gc2NoZWR1bGVySG9sZGVyLnNjaGVkdWxlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>utility</text>
+        <text>lifetracker</text>
       </register>
       <register name="/" type="4">
         <text>localRes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmRlcGVuZGVuY2llcyB7CiAgICBjb21waWxlIHByb2plY3QoJzphZ2VudCcpCn0K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIHBhY2thZ2U9ImNvbS5sZ2UubGlmZXRyYWNrZXIiPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHdlYXJBcHAgcHJvamVjdChwYXRoOiAnOndlYXInLCBjb25maWd1cmF0aW9uOiAnbWljcm9SZWxlYXNlJykK</text>
+      <register name="1" type="4">
+        <text>lifetracker</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmludGVsbGlnZW5jZTpjaGFsbGVuZ2UnKQo=</text>
+      <register name="2" type="4">
+        <text>lifetracker</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmludGVsbGlnZW5jZTp0aXAnKQo=</text>
+      <register name="3" type="4">
+        <text>lifetracker</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU3RyaW5nV3JpdGVyIGV4dGVuZHMgRnVuYzE8Q291bnQsIFN0cmluZz4gewogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnV0aWxpdHknKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>utility</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvQmlvSVRQbGF0Zm9ybV9TRFNlcnZpY2VfU3R1Yl8xLjMuNy5qYXInKQo=</text>
+        <text encoding="base64">eG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvQmlvSVRQbGF0Zm9ybV9TRFNlcnZpY2VfQ29tbW9uXzEuMy43LmphcicpCg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
-      <register name="8" type="4">
-        <text>Stub_1</text>
+      <register name="8" type="2">
+        <text encoding="base64">PG1hbmlmZXN0Lz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOmFnZW50Jwo=</text>
+        <text encoding="base64">ICAgIHdlYXJBcHAgcHJvamVjdChwYXRoOiAnOndlYXInLCBjb25maWd1cmF0aW9uOiAnbWljcm9SZWxlYXNlJykK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gVGVzdFNjaGVkdWxlciDsgqzsmqkK</text>
