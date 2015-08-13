@@ -80,6 +80,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/health/build.gradle" timestamp="1439445614580">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="51" column="26" />
+        <mark key="^" line="51" column="26" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/controller/CoachingData.java" timestamp="1438043707779">
         <mark key="'" line="58" column="0" />
       </file>
@@ -276,6 +282,11 @@
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/controller/StressController.java" timestamp="1437608131549">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/intelligence/challenge/build.gradle" timestamp="1439445629804">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/LoggerModule.java" timestamp="1437610621621">
         <mark key="'" line="9" column="13" />
       </file>
@@ -284,6 +295,12 @@
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/UnitObservableTest.groovy" timestamp="1437117458517">
         <mark key="'" line="12" column="64" />
+      </file>
+      <file name="/home2/hojin.ghim/src/health/agent/build.gradle" timestamp="1439445383633">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="62" />
+        <mark key="." line="2" column="62" />
+        <mark key="^" line="2" column="62" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/data/TrackingPresentation.java" timestamp="1437468744989">
         <mark key="'" line="7" column="20" />
@@ -371,12 +388,24 @@
       <file name="/home2/hojin.ghim/src/health/whealth/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.1.0/jars/classes.jar!/com/jakewharton/rxbinding/view/RxView.class" timestamp="1439171952336">
         <mark key="'" line="17" column="42" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/intelligence/tip/src/AndroidManifest.xml" timestamp="1439444737644">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="30" />
+      </file>
       <file name="/home2/hojin.ghim/src/MySometime/android/AndroidManifest.xml" timestamp="1438862504260">
         <mark key="'" line="32" column="45" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="76" column="43" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="/home2/hojin.ghim/src/health/intelligence/tip/build.gradle" timestamp="1439445620859">
+        <mark key="'" line="4" column="47" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/stress/StressEntryFragment.java" timestamp="1437529795951">
         <mark key="'" line="67" column="56" />
@@ -588,7 +617,7 @@
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/adapter/AchievementReader.java" timestamp="1435197727410">
         <mark key="'" line="9" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1438950811444">
+      <file name="/Dummy.txt" timestamp="1439444885624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/android/res/values/strings.xml" timestamp="1438864631959">
@@ -599,6 +628,9 @@
       </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/AgentModule.java" timestamp="1438925431535">
         <mark key="'" line="17" column="28" />
+      </file>
+      <file name="/home2/hojin.ghim/src/health/Lifetracker/build.gradle" timestamp="1439445405010">
+        <mark key="^" line="127" column="26" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/webPage/src/main/AndroidManifest.xml" timestamp="1438861811922">
         <mark key="'" line="12" column="27" />
@@ -630,6 +662,11 @@
         <mark key="]" line="175" column="27" />
         <mark key="^" line="175" column="27" />
         <mark key="." line="175" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/health/settings.gradle" timestamp="1439445295140">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/PresenterModule.java" timestamp="1437454607137">
         <mark key="'" line="48" column="0" />
@@ -663,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="51" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/AchievementObservable.java" />
       <jump line="99" column="48" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/ExerciseObservable.java" />
       <jump line="59" column="25" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/AchievementObservable.java" />
       <jump line="88" column="41" filename="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/whealth/adapter/AgentModule.java" />
@@ -763,13 +799,14 @@
       <jump line="80" column="37" filename="/home2/hojin.ghim/src/health/whealth/build.gradle" />
       <jump line="46" column="4" filename="/home2/hojin.ghim/src/health/whealth/build.gradle" />
       <jump line="8" column="35" filename="/home2/hojin.ghim/src/health/Lifetracker/build.gradle" />
+      <jump line="4" column="47" filename="/home2/hojin.ghim/src/health/intelligence/tip/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjvCBSdW50aW1lRXhjZXB0aW9uIOydhCDrjZjsoLjso7zshLjsmpQuCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1.4.0-alpha1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmRlcGVuZGVuY2llcyB7CiAgICBjb21waWxlIHByb2plY3QoJzphZ2VudCcpCn0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIOydtOyiheyasSDrs4DtmZgg7L2U65Oc64qUIGNvbnZlcnRlciDroZwg7Jiu6rKo7KO87IS47JqULgo=</text>
@@ -781,46 +818,46 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBTY2hlZHVsZXIgc2NoZWR1bGVyID0gc2NoZWR1bGVySG9sZGVyLnNjaGVkdWxlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>1.4.0-alpha1</text>
+        <text>utility</text>
       </register>
       <register name="/" type="4">
         <text>localRes</text>
       </register>
-      <register name="0" type="4">
-        <text>http://stackoverflow.com/a/22183825</text>
+      <register name="0" type="2">
+        <text encoding="base64">CmRlcGVuZGVuY2llcyB7CiAgICBjb21waWxlIHByb2plY3QoJzphZ2VudCcpCn0K</text>
       </register>
-      <register name="1" type="4">
-        <text>1.4.0-alpha1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHdlYXJBcHAgcHJvamVjdChwYXRoOiAnOndlYXInLCBjb25maWd1cmF0aW9uOiAnbWljcm9SZWxlYXNlJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmludGVsbGlnZW5jZTpjaGFsbGVuZ2UnKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmludGVsbGlnZW5jZTp0aXAnKQo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU3RyaW5nV3JpdGVyIGV4dGVuZHMgRnVuYzE8Q291bnQsIFN0cmluZz4gewogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>l</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnV0aWxpdHknKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>utility</text>
       </register>
-      <register name="6" type="4">
-        <text>1.4.0-alpha1&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvQmlvSVRQbGF0Zm9ybV9TRFNlcnZpY2VfU3R1Yl8xLjMuNy5qYXInKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvQmlvSVRQbGF0Zm9ybV9TRFNlcnZpY2VfQ29tbW9uXzEuMy43LmphcicpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>Stub_1</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW5jbHVkZSAnOmFnZW50Jwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gVGVzdFNjaGVkdWxlciDsgqzsmqkK</text>
