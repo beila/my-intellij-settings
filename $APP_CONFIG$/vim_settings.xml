@@ -270,10 +270,12 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" timestamp="1439796555590">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" timestamp="1439852832204">
+        <mark key="'" line="60" column="33" />
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
       </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" timestamp="1439453181489">
         <mark key="'" line="380" column="0" />
@@ -529,8 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1661" column="10" filename="/home2/hojin.ghim/src/health/Lifetracker/libs/android-support-v4.jar!/android/support/v4/app/FragmentManagerImpl.class" />
-      <jump line="641" column="49" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
       <jump line="203" column="66" filename="/home2/hojin.ghim/src/health/Lifetracker/libs/com.lge.frameworks_intermediates.jar!/com/lge/app/permission/RequestPermissionsHelper.class" />
       <jump line="282" column="45" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
       <jump line="51" column="13" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
@@ -629,13 +629,15 @@
       <jump line="70" column="23" filename="/home2/hojin.ghim/src/health/Lifetracker/unittest/src/com/lge/lifetracker/map/LifeTrackerAppRunner.java" />
       <jump line="339" column="16" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecord.java" />
       <jump line="173" column="33" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
+      <jump line="60" column="33" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" />
+      <jump line="107" column="104" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.12/21eaf213f2c653611bf74607abf73bb99e9407e0/rxjava-1.0.12-sources.jar!/rx/observers/TestSubscriber.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjvCBSdW50aW1lRXhjZXB0aW9uIOydhCDrjZjsoLjso7zshLjsmpQuCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGVzdFN1YnNjcmliZXIoKS4K</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIOydtOyiheyasSDrs4DtmZgg7L2U65Oc64qUIGNvbnZlcnRlciDroZwg7Jiu6rKo7KO87IS47JqULgo=</text>
@@ -647,7 +649,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBTY2hlZHVsZXIgc2NoZWR1bGVyID0gc2NoZWR1bGVySG9sZGVyLnNjaGVkdWxlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>localRes</text>
@@ -655,38 +657,38 @@
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIHBhY2thZ2U9ImNvbS5sZ2UubGlmZXRyYWNrZXIiPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGVzdFN1YnNjcmliZXIoKS4K</text>
+      <register name="1" type="4">
+        <text>()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgVGVzdFN1YnNjcmliZXIoKS4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoT2JzZXJ2YWJsZTo6ZnJvbSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU3RyaW5nV3JpdGVyIGV4dGVuZHMgRnVuYzE8Q291bnQsIFN0cmluZz4gewogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>buffer</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoT2JzZXJ2YWJsZTo6ZnJvbSkK</text>
       </register>
       <register name="5" type="4">
-        <text>.takeUntil(mWaypointStatus)</text>
+        <text>buffer</text>
       </register>
       <register name="6" type="4">
-        <text>takeUntil(mWaypointStatus))</text>
+        <text>.takeUntil(mWaypointStatus)</text>
       </register>
       <register name="7" type="4">
-        <text>window</text>
+        <text>takeUntil(mWaypointStatus))</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>window</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gVGVzdFNjaGVkdWxlciDsgqzsmqkK</text>
