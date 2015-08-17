@@ -270,8 +270,10 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" timestamp="1439796508039">
-        <mark key="[" line="47" column="66" />
+      <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" timestamp="1439796555590">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" timestamp="1439453181489">
         <mark key="'" line="380" column="0" />
@@ -385,9 +387,6 @@
       </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecord.java" timestamp="1439453689446">
         <mark key="'" line="339" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1439444885624">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/utils/WHealthSettingPreference.java" timestamp="1437528809589">
         <mark key="'" line="24" column="31" />
@@ -635,8 +634,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjvCBSdW50aW1lRXhjZXB0aW9uIOydhCDrjZjsoLjso7zshLjsmpQuCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgVGVzdFN1YnNjcmliZXIoKS4K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIOydtOyiheyasSDrs4DtmZgg7L2U65Oc64qUIGNvbnZlcnRlciDroZwg7Jiu6rKo7KO87IS47JqULgo=</text>
@@ -656,38 +655,38 @@
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIHBhY2thZ2U9ImNvbS5sZ2UubGlmZXRyYWNrZXIiPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgVGVzdFN1YnNjcmliZXIoKS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoT2JzZXJ2YWJsZTo6ZnJvbSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
       </register>
-      <register name="3" type="4">
-        <text>buffer</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoT2JzZXJ2YWJsZTo6ZnJvbSkK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU3RyaW5nV3JpdGVyIGV4dGVuZHMgRnVuYzE8Q291bnQsIFN0cmluZz4gewogICAgfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>.takeUntil(mWaypointStatus)</text>
+        <text>buffer</text>
       </register>
       <register name="5" type="4">
-        <text>takeUntil(mWaypointStatus))</text>
+        <text>.takeUntil(mWaypointStatus)</text>
       </register>
       <register name="6" type="4">
-        <text>window</text>
+        <text>takeUntil(mWaypointStatus))</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>window</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>window</text>
+        <text>(</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gVGVzdFNjaGVkdWxlciDsgqzsmqkK</text>
