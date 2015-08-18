@@ -174,10 +174,10 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="49" />
       </file>
-      <file name="$USER_HOME$/src/health/build.gradle" timestamp="1439885072105">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
+      <file name="$USER_HOME$/src/health/build.gradle" timestamp="1439885703148">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="34" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/prototype/build.gradle" timestamp="1438906319262">
@@ -620,7 +620,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjvCBSdW50aW1lRXhjZXB0aW9uIOydhCDrjZjsoLjso7zshLjsmpQuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJjMw==</text>
+        <text>MNC</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIOydtOyiheyasSDrs4DtmZgg7L2U65Oc64qUIGNvbnZlcnRlciDroZwg7Jiu6rKo7KO87IS47JqULgo=</text>
@@ -632,7 +632,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBTY2hlZHVsZXIgc2NoZWR1bGVyID0gc2NoZWR1bGVySG9sZGVyLnNjaGVkdWxlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJjMw==</text>
+        <text>MNC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</text>
@@ -641,37 +641,37 @@
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIHBhY2thZ2U9ImNvbS5sZ2UubGlmZXRyYWNrZXIiPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHJjMw==</text>
+        <text>MNC</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>MNC</text>
+        <text encoding="base64">IHJjMw==</text>
       </register>
       <register name="3" type="4">
-        <text>1.4.0-alpha1</text>
+        <text encoding="base64">IHJjMw==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU3RyaW5nV3JpdGVyIGV4dGVuZHMgRnVuYzE8Q291bnQsIFN0cmluZz4gewogICAgfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>3.2.0</text>
+        <text>MNC</text>
       </register>
       <register name="5" type="4">
         <text>1.4.0-alpha1</text>
       </register>
       <register name="6" type="4">
-        <text>.lge</text>
+        <text>3.2.0</text>
       </register>
       <register name="7" type="4">
-        <text>MNC</text>
+        <text>1.4.0-alpha1</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHJjMw==</text>
+        <text>.lge</text>
       </register>
       <register name="9" type="4">
-        <text>1.4.0-alpha1</text>
+        <text>MNC</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gVGVzdFNjaGVkdWxlciDsgqzsmqkK</text>
