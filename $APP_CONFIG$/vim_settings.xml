@@ -93,12 +93,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.13/bc4a7a6ffde71a7604bceed00d396193e4836543/rxjava-1.0.13-sources.jar!/rx/internal/operators/OperatorBufferWithStartEndObservable.java" timestamp="1439451702084">
         <mark key="'" line="173" column="23" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/intelligence/tip/build.gradle" timestamp="1439445620859">
-        <mark key="'" line="4" column="47" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/stress/StressEntryFragment.java" timestamp="1437529795951">
         <mark key="'" line="67" column="56" />
         <mark key="[" line="15" column="0" />
@@ -250,6 +244,11 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" timestamp="1439872950236">
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/wearui/settings/units/UnitSelectionListAdapter.java" timestamp="1437548350113">
         <mark key="'" line="55" column="49" />
         <mark key="[" line="29" column="0" />
@@ -270,15 +269,8 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" timestamp="1439852832204">
-        <mark key="'" line="60" column="33" />
-        <mark key="[" line="60" column="40" />
-        <mark key="]" line="60" column="38" />
-        <mark key="." line="60" column="38" />
-        <mark key="^" line="60" column="38" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" timestamp="1439453181489">
-        <mark key="'" line="380" column="0" />
+        <mark key="'" line="387" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/month/view/MonthviewCaledarView.java" timestamp="1436511900211">
         <mark key="'" line="327" column="22" />
@@ -293,9 +285,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/unittest/src/com/lge/lifetracker/map/RecordTrackTest.java" timestamp="1439453665374">
-        <mark key="'" line="379" column="17" />
       </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/ExerciseComponent.java" timestamp="1437610617765">
         <mark key="'" line="33" column="58" />
@@ -365,13 +354,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
-      </file>
-      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/AutoPauseController.java" timestamp="1439453543935">
-        <mark key="'" line="95" column="32" />
-        <mark key="[" line="104" column="55" />
-        <mark key="]" line="104" column="55" />
-        <mark key="." line="104" column="55" />
-        <mark key="^" line="102" column="23" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/prototype/classroom/src/main/kotlin/temp.kt" timestamp="1438869319547">
         <mark key="'" line="7" column="0" />
@@ -531,9 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="66" filename="/home2/hojin.ghim/src/health/Lifetracker/libs/com.lge.frameworks_intermediates.jar!/com/lge/app/permission/RequestPermissionsHelper.class" />
-      <jump line="282" column="45" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
-      <jump line="51" column="13" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
       <jump line="153" column="23" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingServiceConnection.java" />
       <jump line="69" column="38" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingServiceConnection.java" />
       <jump line="286" column="33" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
@@ -631,13 +610,16 @@
       <jump line="173" column="33" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
       <jump line="60" column="33" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" />
       <jump line="107" column="104" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.12/21eaf213f2c653611bf74607abf73bb99e9407e0/rxjava-1.0.12-sources.jar!/rx/observers/TestSubscriber.java" />
+      <jump line="507" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" />
+      <jump line="508" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" />
+      <jump line="482" column="0" filename="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjvCBSdW50aW1lRXhjZXB0aW9uIOydhCDrjZjsoLjso7zshLjsmpQuCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA3NzY0YWRmLi4uIFtMR0hlYWx0aF0gdHJhY2sgcmVjb3JkaW5nIGltcGxlbWVudGVkIGF1dG8gcGF1c2Ugb24gcmVjb3JkaW5nIHZpZXcK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIOydtOyiheyasSDrs4DtmZgg7L2U65Oc64qUIGNvbnZlcnRlciDroZwg7Jiu6rKo7KO87IS47JqULgo=</text>
@@ -652,43 +634,43 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>localRes</text>
+        <text encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIHBhY2thZ2U9ImNvbS5sZ2UubGlmZXRyYWNrZXIiPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA3NzY0YWRmLi4uIFtMR0hlYWx0aF0gdHJhY2sgcmVjb3JkaW5nIGltcGxlbWVudGVkIGF1dG8gcGF1c2Ugb24gcmVjb3JkaW5nIHZpZXcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGVzdFN1YnNjcmliZXIoKS4K</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgogICAgPCEtLSBQZXJtaXNzaW4gLS0+CiAgICA8c3RyaW5nIG5hbWU9Imx0X3Jhbmtpbmdfbm9fcGVybWlzc2lvbiI+Q2FuXCd0IGFjY2VzcyB5b3VyIFJFQURfQ09OVEFDVFMuIExHIEhlYWx0aCBBZ2VudCBuZWVkcyBwZXJtaXNzaW9uIHRvIHJlYWQgY29udGFjdHMuPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9Imx0X3JhbmtpbmdfZ3JhbnRfcGVybWlzc2lvbiI+R3JhbnQgcGVybWlzc2lvbi48L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibHRfcmFua2luZ19ncmFudF9wZXJtaXNzaW9uX3NldHRpbmciPkdvIHRvIHNldHRpbmcuPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9Imx0X3N5bmNfbm9fcGVybWlzc2lvbiI+IiVzIGlzIHVuYXZhaWxhYmxlIGR1ZSB0byBubyBwZXJtaXNzaW9ucy4iPC9zdHJpbmc+CgogICAgPCEtLWR1bXksIHdpbGwgYmUgcmVtb3ZlZC0tPgogICAgPHN0cmluZyBuYW1lPSJub19wZXJtaXNzaW9uX3VpX3RpdGxlIiB0cmFuc2xhdGFibGU9ImZhbHNlIj49PT0gTEcgSGVhbHRoID09PTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJub19wZXJtaXNzaW9uX3VpX21lc3NhZ2UiIHRyYW5zbGF0YWJsZT0iZmFsc2UiPj09PSBMRyBIZWFsdGggRGVzY3JpcHRpb24gPT09PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9Im5vX3Blcm1pc3Npb25fdWlfbWVzc2FnZV93aWRnZXQiIHRyYW5zbGF0YWJsZT0iZmFsc2UiPj09PSBMRyBIZWFsdGggd2lkZ2V0IERlc2NyaXB0aW9uID09PTwvc3RyaW5nPgoKICAgIDwhLS0gVXNlZCBpbiB4bWwtLT4KICAgIDxzdHJpbmcgbmFtZT0ibHRfaGJmXzIwNl9pdF9uYW1lIiB0cmFuc2xhdGFibGU9ImZhbHNlIj5PbXJvbiBIQkYgMjA2SVQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibHRfcDIwYl9uYW1lIiB0cmFuc2xhdGFibGU9ImZhbHNlIj5GT1JBIFAyMGI8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibHRfdWFfNzY3cGJ0X2NfbmFtZSIgdHJhbnNsYXRhYmxlPSJmYWxzZSI+QU5EIFVBLTc2N1BCVC1DPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9Imx0X3VhXzg1MXBidF9jX25hbWUiIHRyYW5zbGF0YWJsZT0iZmFsc2UiPkFORCBVQS04NTFQQlQtQzwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJsdF9oZW1fNzA4MV9pdF9uYW1lIiB0cmFuc2xhdGFibGU9ImZhbHNlIj5PbXJvbiBIRU0gNzA4MUlUPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9Imx0X2lyMjBfbmFtZSIgdHJhbnNsYXRhYmxlPSJmYWxzZSI+Rk9SQSBJUjIwYiBUeXBlMTwvc3RyaW5nPgp8fHx8fHx8IHBhcmVudCBvZiA3NzY0YWRmLi4uIFtMR0hlYWx0aF0gdHJhY2sgcmVjb3JkaW5nIGltcGxlbWVudGVkIGF1dG8gcGF1c2Ugb24gcmVjb3JkaW5nIHZpZXcKICAgIAo9PT09PT09Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
+        <text>()</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU3RyaW5nV3JpdGVyIGV4dGVuZHMgRnVuYzE8Q291bnQsIFN0cmluZz4gewogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoT2JzZXJ2YWJsZTo6ZnJvbSkK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVGVzdFN1YnNjcmliZXIoKS4K</text>
       </register>
       <register name="5" type="4">
-        <text>buffer</text>
+        <text encoding="base64">Lm9uRXJyb3JSZXR1cm4odCAtPiBCb29sZWFuLkZBTFNFKQ==</text>
       </register>
-      <register name="6" type="4">
-        <text>.takeUntil(mWaypointStatus)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoT2JzZXJ2YWJsZTo6ZnJvbSkK</text>
       </register>
       <register name="7" type="4">
-        <text>takeUntil(mWaypointStatus))</text>
+        <text>buffer</text>
       </register>
       <register name="8" type="4">
-        <text>window</text>
+        <text>.takeUntil(mWaypointStatus)</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>takeUntil(mWaypointStatus))</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gVGVzdFNjaGVkdWxlciDsgqzsmqkK</text>
@@ -698,9 +680,9 @@
       </register>
     </registers>
     <search>
-      <last-search>localRes</last-search>
+      <last-search encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</last-search>
       <last-offset />
-      <last-pattern>localRes</last-pattern>
+      <last-pattern encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</last-pattern>
       <last-replace>StringMaker</last-replace>
       <last-substitute>Provider</last-substitute>
       <last-dir>1</last-dir>
@@ -708,8 +690,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsdF93X3RyYWNrZXJfbGF5b3V0XD4=</entry>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry encoding="base64">XDxIRUFEXD4=</entry>
         <entry encoding="base64">XDxQcm92aWRlckdldHRlclw+</entry>
         <entry encoding="base64">XDxSZW1vdGVFeGNlcHRpb25cPg==</entry>
@@ -728,6 +708,8 @@
         <entry encoding="base64">XDxWaWV3T2JzZXJ2YWJsZVw+</entry>
         <entry encoding="base64">XDxjbGlja3NcPg==</entry>
         <entry>localRes</entry>
+        <entry encoding="base64">XDxsdF9hY3RpdmVcPg==</entry>
+        <entry encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOw==</entry>
