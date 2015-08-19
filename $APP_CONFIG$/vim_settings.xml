@@ -70,6 +70,9 @@
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="43" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/eventtype/enable/EventTypeBackupServer.java" timestamp="1439946591002">
+        <mark key="'" line="2" column="13" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/intelligence/tip/src/AndroidManifest.xml" timestamp="1439444737644">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
@@ -206,6 +209,9 @@
       <file name="/home2/hojin.ghim/src/health/repository/build.gradle" timestamp="1439449838103">
         <mark key="'" line="17" column="4" />
         <mark key="^" line="5" column="60" />
+      </file>
+      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/manager/ServerLayerManager.java" timestamp="1439946605305">
+        <mark key="'" line="215" column="22" />
       </file>
       <file name="/home2/hojin.ghim/src/MyApplication/app/build.gradle" timestamp="1436267155554">
         <mark key="'" line="4" column="23" />
@@ -521,8 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="22" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/ranking/RankingFragment.java" />
-      <jump line="58" column="13" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/ranking/RankingFragment.java" />
       <jump line="676" column="20" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="731" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="682" column="20" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
@@ -621,6 +625,8 @@
       <jump line="210" column="38" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
       <jump line="179" column="12" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
       <jump line="3" column="55" filename="$USER_HOME$/src/health/build.gradle" />
+      <jump line="2" column="13" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/eventtype/enable/EventTypeBackupServer.java" />
+      <jump line="215" column="22" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/manager/ServerLayerManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
