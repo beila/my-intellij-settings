@@ -118,6 +118,9 @@
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" timestamp="1439453181489">
         <mark key="'" line="387" column="0" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" timestamp="1439947949550">
+        <mark key="'" line="139" column="27" />
+      </file>
       <file name="/home2/hojin.ghim/src/MySometime/android/build/intermediates/exploded-aar/MySometime/webPage/unspecified/aapt/AndroidManifest.xml" timestamp="1438849406658">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="38" />
@@ -164,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="676" column="20" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
-      <jump line="731" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="682" column="20" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="698" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="721" column="17" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
@@ -264,6 +265,8 @@
       <jump line="3" column="55" filename="$USER_HOME$/src/health/build.gradle" />
       <jump line="2" column="13" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/eventtype/enable/EventTypeBackupServer.java" />
       <jump line="215" column="22" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/manager/ServerLayerManager.java" />
+      <jump line="200" column="17" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
+      <jump line="139" column="27" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
