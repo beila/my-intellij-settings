@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1439962338789">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/eventtype/enable/EventTypeBackupServer.java" timestamp="1439946591002">
         <mark key="'" line="2" column="13" />
       </file>
@@ -42,6 +39,9 @@
       <file name="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecord.java" timestamp="1439453689446">
         <mark key="'" line="339" column="16" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/whealth/src/main/res/values/arrays.xml" timestamp="1439965118814">
+        <mark key="'" line="50" column="28" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/unittest/src/com/lge/lifetracker/map/LifeTrackerAppRunner.java" timestamp="1439453685357">
         <mark key="'" line="70" column="23" />
       </file>
@@ -64,8 +64,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="721" column="17" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
-      <jump line="323" column="24" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" />
       <jump line="334" column="19" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" />
       <jump line="32" column="41" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" />
       <jump line="36" column="18" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/DataSourceObservable.java" />
@@ -164,6 +162,8 @@
       <jump line="139" column="27" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="69" column="30" filename="/home2/hojin.ghim/src/health/whealth/src/main/res/values/strings.xml" />
       <jump line="215" column="46" filename="/home2/hojin.ghim/src/health/whealth/src/main/res/values/strings.xml" />
+      <jump line="50" column="28" filename="/home2/hojin.ghim/src/health/whealth/src/main/res/values/arrays.xml" />
+      <jump line="228" column="42" filename="/home2/hojin.ghim/src/health/whealth/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
