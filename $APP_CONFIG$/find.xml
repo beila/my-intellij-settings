@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'health'" />
+    <option name="defaultScopeName" value="Project 'health'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'health'" />
   </component>
 </application>

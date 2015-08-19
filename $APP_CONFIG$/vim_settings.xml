@@ -127,6 +127,9 @@
         <mark key="^" line="51" column="46" />
         <mark key="." line="51" column="46" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" timestamp="1439941831440">
+        <mark key="'" line="179" column="12" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/test/java/TestTest.java" timestamp="1437634983714">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="0" column="0" />
@@ -139,6 +142,9 @@
         <mark key="]" line="9" column="41" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
+      </file>
+      <file name="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/handheldcomm/WearSender.java" timestamp="1439941142172">
+        <mark key="'" line="181" column="16" />
       </file>
       <file name="/home2/hojin.ghim/src/health/wcontroller/build.gradle" timestamp="1438045952933">
         <mark key="'" line="31" column="0" />
@@ -514,11 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="23" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingServiceConnection.java" />
-      <jump line="69" column="38" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingServiceConnection.java" />
-      <jump line="286" column="33" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
-      <jump line="67" column="40" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
-      <jump line="647" column="26" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingService.java" />
       <jump line="152" column="29" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingServiceConnection.java" />
       <jump line="206" column="22" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/ranking/RankingFragment.java" />
       <jump line="58" column="13" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/ranking/RankingFragment.java" />
@@ -614,6 +615,11 @@
       <jump line="507" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" />
       <jump line="508" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" />
       <jump line="482" column="0" filename="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" />
+      <jump line="181" column="16" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/handheldcomm/WearSender.java" />
+      <jump line="142" column="8" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
+      <jump line="164" column="38" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
+      <jump line="210" column="38" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
+      <jump line="179" column="12" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
