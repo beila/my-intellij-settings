@@ -180,9 +180,10 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="49" />
       </file>
-      <file name="$USER_HOME$/src/health/build.gradle" timestamp="1439885703148">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="34" />
+      <file name="$USER_HOME$/src/health/build.gradle" timestamp="1439942835247">
+        <mark key="'" line="3" column="55" />
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="65" />
         <mark key="." line="31" column="34" />
         <mark key="^" line="31" column="34" />
       </file>
@@ -520,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="29" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/map/service/TrackRecordingServiceConnection.java" />
       <jump line="206" column="22" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/ranking/RankingFragment.java" />
       <jump line="58" column="13" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/ranking/RankingFragment.java" />
       <jump line="676" column="20" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
@@ -620,13 +620,14 @@
       <jump line="164" column="38" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
       <jump line="210" column="38" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
       <jump line="179" column="12" filename="/home2/hojin.ghim/src/health/wear/src/main/java/com/lge/lifetracker/notification/RecordingOngoingNotificationManager.java" />
+      <jump line="3" column="55" filename="$USER_HOME$/src/health/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjvCBSdW50aW1lRXhjZXB0aW9uIOydhCDrjZjsoLjso7zshLjsmpQuCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MNC</text>
+        <text>1.4.0-alpha1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FIOydtOyiheyasSDrs4DtmZgg7L2U65Oc64qUIGNvbnZlcnRlciDroZwg7Jiu6rKo7KO87IS47JqULgo=</text>
