@@ -25,10 +25,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.13/bc4a7a6ffde71a7604bceed00d396193e4836543/rxjava-1.0.13-sources.jar!/rx/Observable.java" timestamp="1439451787874">
         <mark key="'" line="9457" column="57" />
       </file>
-      <file name="/home2/hojin.ghim/src/health/repository/build.gradle" timestamp="1439449838103">
-        <mark key="'" line="17" column="4" />
-        <mark key="^" line="5" column="60" />
-      </file>
       <file name="/home2/hojin.ghim/src/health/Lifetracker/res/values/strings.xml" timestamp="1439872950236">
         <mark key="[" line="486" column="0" />
         <mark key="]" line="486" column="0" />
@@ -51,6 +47,9 @@
         <mark key="]" line="16" column="1" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/home2/hojin.ghim/src/health/whealth/src/main/res/values/strings.xml" timestamp="1439958663659">
+        <mark key="'" line="215" column="46" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.13/bc4a7a6ffde71a7604bceed00d396193e4836543/rxjava-1.0.13-sources.jar!/rx/internal/operators/OperatorWindowWithStartEndObservable.java" timestamp="1439451794642">
         <mark key="'" line="212" column="32" />
       </file>
@@ -61,8 +60,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="682" column="20" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
-      <jump line="698" column="18" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="721" column="17" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="323" column="24" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" />
       <jump line="334" column="19" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/DataSourceObservableTest.groovy" />
@@ -161,6 +158,8 @@
       <jump line="215" column="22" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/layer/manager/ServerLayerManager.java" />
       <jump line="200" column="17" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
       <jump line="139" column="27" filename="/home2/hojin.ghim/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
+      <jump line="69" column="30" filename="/home2/hojin.ghim/src/health/whealth/src/main/res/values/strings.xml" />
+      <jump line="215" column="46" filename="/home2/hojin.ghim/src/health/whealth/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -182,7 +181,7 @@
         <text>MNC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</text>
+        <text>50%</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIHBhY2thZ2U9ImNvbS5sZ2UubGlmZXRyYWNrZXIiPgo=</text>
@@ -228,9 +227,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</last-search>
+      <last-search>50%</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</last-pattern>
+      <last-pattern>50%</last-pattern>
       <last-replace>StringMaker</last-replace>
       <last-substitute>Provider</last-substitute>
       <last-dir>1</last-dir>
@@ -238,9 +237,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIRUFEXD4=</entry>
-        <entry encoding="base64">XDxQcm92aWRlckdldHRlclw+</entry>
-        <entry encoding="base64">XDxSZW1vdGVFeGNlcHRpb25cPg==</entry>
         <entry>this</entry>
         <entry encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</entry>
         <entry encoding="base64">XDxTZXJ2ZXJcPg==</entry>
@@ -258,6 +254,9 @@
         <entry>localRes</entry>
         <entry encoding="base64">XDxsdF9hY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxsdF9hdXRvX3BhdXNlZFw+</entry>
+        <entry>5-</entry>
+        <entry>50</entry>
+        <entry>50%</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvOw==</entry>
