@@ -27,6 +27,9 @@
         <mark key="^" line="33" column="41" />
         <mark key="." line="23" column="22" />
       </file>
+      <file name="D:/src/health/Lifetracker/src/com/lge/lifetracker/core/service/CardEventGeneratorService.java" timestamp="1440385819786">
+        <mark key="'" line="211" column="41" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/data/MovementData.java" timestamp="1437660231809">
         <mark key="'" line="74" column="28" />
         <mark key="[" line="81" column="45" />
@@ -190,6 +193,9 @@
         <mark key="]" line="27" column="33" />
         <mark key="." line="27" column="33" />
         <mark key="^" line="27" column="33" />
+      </file>
+      <file name="D:/src/health/Lifetracker/src/com/lge/lifetracker/MainUtil.java" timestamp="1440385493251">
+        <mark key="'" line="49" column="63" />
       </file>
       <file name="/home2/hojin.ghim/src/health/whealth/src/main/java/com/lge/lifetracker/utils/WHealthSettingPreference.java" timestamp="1437528809589">
         <mark key="'" line="24" column="31" />
@@ -427,6 +433,9 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="D:/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" timestamp="1440385488336">
+        <mark key="'" line="203" column="47" />
+      </file>
       <file name="D:/src/health/build.gradle" timestamp="1437031413725">
         <mark key="[" line="24" column="52" />
         <mark key="]" line="25" column="22" />
@@ -553,6 +562,7 @@
       <file name="/Dummy.txt" timestamp="1439444885624">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/src/health/Lifetracker/src/com/lge/lifetracker/service/HealthEventReceiverService.java" timestamp="1440385846049" />
       <file name="/home2/hojin.ghim/src/health/Lifetracker/build.gradle" timestamp="1439445405010">
         <mark key="^" line="127" column="26" />
       </file>
@@ -590,6 +600,9 @@
         <mark key="." line="120" column="80" />
         <mark key="^" line="120" column="80" />
       </file>
+      <file name="D:/src/health/Lifetracker/src/com/lge/lifetracker/layer/eventtype/observer/EventTypeRankingChanged.java" timestamp="1440385821401">
+        <mark key="'" line="7" column="13" />
+      </file>
       <file name="/home2/hojin.ghim/src/health/wcontroller/src/main/java/com/lge/lifetracker/whealth/controller/BPHealthActivityController.java" timestamp="1438046067747">
         <mark key="'" line="78" column="21" />
         <mark key="[" line="2" column="0" />
@@ -609,12 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="32" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
-      <jump line="17" column="8" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
-      <jump line="63" column="34" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
-      <jump line="66" column="4" filename="/home2/hojin.ghim/src/health/repository/src/main/java/com/lge/lifetracker/repository/AchievementObservable.java" />
-      <jump line="61" column="46" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
-      <jump line="30" column="8" filename="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/GoalComponent.java" />
       <jump line="29" column="37" filename="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/GoalComponent.java" />
       <jump line="48" column="42" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
       <jump line="49" column="21" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
@@ -709,6 +716,12 @@
       <jump line="0" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
       <jump line="8" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
       <jump line="44" column="62" filename="D:/src/health/repository/src/main/java/com/lge/lifetracker/repository/AchievementObservable.java" />
+      <jump line="139" column="14" filename="D:/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
+      <jump line="203" column="47" filename="D:/src/health/Lifetracker/src/com/lge/lifetracker/MainActivity.java" />
+      <jump line="49" column="63" filename="D:/src/health/Lifetracker/src/com/lge/lifetracker/MainUtil.java" />
+      <jump line="211" column="41" filename="D:/src/health/Lifetracker/src/com/lge/lifetracker/core/service/CardEventGeneratorService.java" />
+      <jump line="7" column="13" filename="D:/src/health/Lifetracker/src/com/lge/lifetracker/layer/eventtype/observer/EventTypeRankingChanged.java" />
+      <jump line="136" column="54" filename="D:/src/health/Lifetracker/src/com/lge/lifetracker/service/HealthEventReceiverService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
