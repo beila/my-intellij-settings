@@ -423,6 +423,9 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
+      <file name="D:/src/health/repository/src/main/java/com/lge/lifetracker/repository/AchievementObservable.java" timestamp="1440379195383">
+        <mark key="'" line="44" column="62" />
+      </file>
       <file name="/home2/hojin.ghim/src/MySometime/prototype/classroom/src/main/kotlin/temp.kt" timestamp="1438869319547">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="0" column="0" />
@@ -609,7 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="/home2/hojin.ghim/src/health/repository/src/test/java/com/lge/lifetracker/repository/AchievementComponent.java" />
       <jump line="62" column="32" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
       <jump line="17" column="8" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
       <jump line="63" column="34" filename="/home2/hojin.ghim/src/health/repository/src/test/groovy/com/lge/lifetracker/repository/AchievementObservableTest.groovy" />
@@ -709,6 +711,7 @@
       <jump line="9" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
       <jump line="8" column="0" filename="/home2/hojin.ghim/src/health/health/src/main/AndroidManifest.xml" />
+      <jump line="44" column="62" filename="D:/src/health/repository/src/main/java/com/lge/lifetracker/repository/AchievementObservable.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
