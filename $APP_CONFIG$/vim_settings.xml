@@ -29,7 +29,7 @@
         <mark key="^" line="90" column="49" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1439967200662">
+      <file name="/a.dummy" timestamp="1441790168295">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home2/hojin.ghim/src/MySometime/android/build.gradle" timestamp="1438862155048">
@@ -651,8 +651,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIOqwleuPmeyjPyBSdW50aW1lRXhjZXB0aW9uID+dhCA/jZg/oLjso7zshLg/mpQuCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>phasetest</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZJWE1FID+dtOyiheyasSDrsz8/mZgg7L2U65OcP4qUIGNvbnZlcnRlciDroT8gP5iu6rKo7KO8P4S4P5qULgo=</text>
@@ -664,7 +664,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBTY2hlZHVsZXIgc2NoZWR1bGVyID0gc2NoZWR1bGVySG9sZGVyLnNjaGVkdWxlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>phasetest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0XD4=</text>
@@ -672,38 +672,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgIXN1YnNjcmlwdGlvbi5pc1Vuc3Vic2NyaWJlZCgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>phasetest</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkxvZ2luQWN0aXZpdHkiOiBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQoKSkK</text>
+      <register name="2" type="4">
+        <text>임시 손 봄</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2goY3VycmVudEFjdGl2aXR5KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgU3RyaW5nV3JpdGVyIGV4dGVuZHMgRnVuYzE8Q291bnQsIFN0cmluZz4gewogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIkxvZ2luQWN0aXZpdHkiOiBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQoKSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>? extends Activity</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2goY3VycmVudEFjdGl2aXR5KSB7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>? extends Activity</text>
       </register>
       <register name="8" type="4">
         <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>subscription</text>
+        <text>(</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8gVGVzdFNjaGVkdWxlciA/gqw/mqkK</text>
